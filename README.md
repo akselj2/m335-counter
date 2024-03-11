@@ -1,4 +1,4 @@
-### m335 counter prototype 1
+# m335 counter prototype 1
 simple recreation of the first module
 
 ## features
